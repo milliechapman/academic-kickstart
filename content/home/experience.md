@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -21,24 +21,30 @@ date_format = "Jan 2006"
   title = "Graduate Student Instructor"
   company = "University of California Berkeley"
   company_url = ""
-  location = "California"
+  location = "Berkeley, California"
   date_start = "2020-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ """
 
 [[experience]]
   title = "Research Assistant II"
   company = "Woodwell Climate Research Center (Woods Hole Research Center)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Falmouth, Massachusetts"
+  date_start = "2015-09-01"
+  date_end = "2018-04-15"
+  description = """Worked with global remote sensing data, assisted in design of social surveys, utilized spatial optimization techniques
+for conservation prioritization. Collaborated with NGOs and government agencies on interdisciplinary and applied research in the Democratic
+Republic of Congo, Costa Rica, Papua New Guinea, and Brazil"""
+
+[[experience]]
+  title = "Measurement, Reporting and Verification (MRV) Analyst"
+  company = "REDD+ Projet Équateur"
+  company_url = ""
+  location = "Falmouth, Massachusetts"
+  date_start = "2017-04-01"
+  date_end = "2016-01-01"
+  description = """Developed a spatially explicit model of deforestation utilizing biophysical, socioeconomic, and political data in the Équateur province of the Democratic Republiic of Congo 
+"""
 
 +++
