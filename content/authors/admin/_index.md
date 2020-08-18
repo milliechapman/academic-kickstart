@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Environmental Science, Policy, and Management
     institution: University of California Berkeley
-    year: (exp) 2023
+    year: (exp.) 2023
   - course: BSc in Ecology and Evolutionary Biology
     institution: Yale University
     year: 2014
@@ -41,19 +41,22 @@ education:
 social:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/milliechapma
+  link: https://scholar.google.co.uk/citations?hl=en&pli=1&user=xJHRncgAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/milliechapman
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1377-1539
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/milliechapma
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
+ #  icon_pack: ai
+  # link: /files/cv.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
