@@ -3,7 +3,7 @@
 Code to produce [my academic website](milliechapman.netlify.app): milliechapman.netlify.app
 
 
-## Built with Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+Built with Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
 
 ## License
 
