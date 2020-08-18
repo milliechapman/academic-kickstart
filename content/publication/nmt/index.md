@@ -4,7 +4,7 @@ authors:
 - Brendan D Galvin
 - Zhiru Li, Estelle Villemaine
 - Catherine B Poole
-- admin
+- Melissa Chapman
 - Michael P Pollastri
 - Paul G Wyatt
 - Clotilde KS Carlow

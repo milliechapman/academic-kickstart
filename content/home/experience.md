@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research Experience"
+title = "Teaching and Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2020-08-01"
   date_end = ""
-  description = """ """
+  description = """Graduate student instructor for [ESPM 157: Data Science for Global Change Ecology](https://espm-157.carlboettiger.info/)"""
 
 [[experience]]
   title = "Research Assistant II"

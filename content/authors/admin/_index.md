@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Millie Chapman
+title: Melissa (Millie) Chapman
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate (She/her)
 
 # Organizations/Affiliations
 organizations:
@@ -31,10 +31,10 @@ education:
   courses:
   - course: PhD in Environmental Science, Policy, and Management
     institution: University of California Berkeley
-    year: (exp.) 2023
+    year: 2018-present
   - course: BSc in Ecology and Evolutionary Biology
     institution: Yale University
-    year: 2014
+    year: 2010-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at UC Berkeley in [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), and a fellow at the UC Berkeley [Center for Society Technology and Policy](https://ctsp.berkeley.edu/) and with the [Algorithmic Fairness and Opacity Working Group](https://afog.berkeley.edu/). My dissertation work explores the dynamics of coupled human and natural systems under uncertainty and across scales, leveraging methods from decision theory, ecology, and data science. My research spans systems, from farms to forests to fisheries, seeking to examine how we think about protection, production, and environmental justice in a rapidly changing world. 
+I am a PhD candidate at UC Berkeley in [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), and a fellow at the UC Berkeley [Center for Society Technology and Policy](https://ctsp.berkeley.edu/) and the [Algorithmic Fairness and Opacity Working Group](https://afog.berkeley.edu/). My dissertation work explores the dynamics of coupled human and natural systems under uncertainty and across scales, leveraging methods from decision theory, ecology, and data science. My research spans systems, from farms to forests to fisheries, seeking to examine how we think about protection, production, and environmental justice in a rapidly changing world. 
 
-My current work (and ever evolving interests) are largely thanks to both of my PhD advisors, Carl Boettiger and Justin Brashares, and my wonderfully supportive labmates in the [Boettiger Group](https://www.carlboettiger.info/) and [Brashares Group](https://nature.berkeley.edu/BrasharesGroup/). Much of my research is informed by the many mentors and coworkers I had during my time as a research assistant at the [Woodwell Climate Research Center](https://www.woodwellclimate.org/) prior to graduate school and, more foundationally, motivated by my teenage years working on urban and suburban farms with [The Food Project](https://thefoodproject.org/)
+My current work is largely thanks to the mentorship from my PhD advisors, Carl Boettiger and Justin Brashares, and my wonderfully supportive labmates in the [Boettiger Group](https://www.carlboettiger.info/) and [Brashares Group](https://nature.berkeley.edu/BrasharesGroup/). Much of my research is informed by the many mentors, collaborators and coworkers I had during my time as a research assistant at the [Woodwell Climate Research Center](https://www.woodwellclimate.org/) and motivated by my teenage years working on urban and suburban farms with [The Food Project](https://thefoodproject.org/).
  
 
