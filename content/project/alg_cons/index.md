@@ -1,5 +1,5 @@
 ---
-title: Environmental Conservation in the Age of Algorithmic Governance
+title: Environmental conservation in the age of algorithms
 #summary:'' 
 tags:
 - AI
