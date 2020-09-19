@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Teaching and Professional Experience"
 subtitle = ""
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Berkeley, California"
   date_start = "2020-08-01"
   date_end = ""
-  description = """Graduate student instructor for [ESPM 157: Data Science for Global Change Ecology](https://espm-157.carlboettiger.info/)"""
+  description = """Graduate student instructor for [ESPM 157: Data Science for Global Change Ecology](https://espm-157.carlboettiger.info/). Teaching data science skills for the analysis of large data sets as well as concepts in global environmental change and environmental justice. """
 
 [[experience]]
   title = "Research Assistant II"
@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   date_end = "2018-04-15"
   description = """Worked with global remote sensing data, assisted in design of social surveys, utilized spatial optimization techniques
 for conservation prioritization. Collaborated with NGOs and government agencies on interdisciplinary and applied research in the Democratic
-Republic of Congo, Costa Rica, Papua New Guinea, and Brazil"""
+Republic of Congo, Costa Rica, Papua New Guinea, and Brazil."""
 
 [[experience]]
   title = "Measurement, Reporting and Verification (MRV) Analyst"

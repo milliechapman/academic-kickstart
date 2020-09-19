@@ -4,7 +4,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 45  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Grants and Fellowships"
 subtitle = ""
@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-04-01"
     date_end = ""
-  description = """Graduate Student Pursuit grant awarded to study decision making models for nature based climate solutions (~$35000)"""
+  description = """SESYNC Graduate Student Pursuit awarded to study decision making models for nature-based climate solutions with a focus on transitions towards agroforestry systems (~$35000)."""
 
 [[experience]]
   title = "Center for Technology, Society, and Policy (CTSP) Fellowship"
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-02-01"
     date_end = ""
-  description = """For work exploring environmental conservation in the age of algorithmic governance. Co-written with Caleb Scoville and Carl Boettiger. ($4000)"""
+  description = """Fellowship to support work on fundemental shifts in environmental conservation in the age of algorithmic governance. Co-written with Caleb Scoville and Carl Boettiger. ($4000)"""
 
 [[experience]]
   title = "Data Science for the 21st Century: Society and Environment"
@@ -52,6 +52,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2012-05-01"
     date_end = "2014-05-01"
-  description = """Two academic years and one summer of Kiswahili study (through Advanced literature). Contributed to capacity to complete undergraduate thesis on environmental drivers of disease distribution in Kenya. (~$35000)"""
+  description = """Two academic years of advanced Kiswahili study. Contributed to capacity to complete undergraduate thesis on environmental drivers of disease distribution in Kenya. (~$35000)"""
 
 +++
