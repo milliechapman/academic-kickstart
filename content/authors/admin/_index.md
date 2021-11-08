@@ -72,11 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate at UC Berkeley in the department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), and a fellow at the UC Berkeley [Center for Society Technology and Policy](https://ctsp.berkeley.edu/) and [Algorithmic Fairness and Opacity Working Group](https://afog.berkeley.edu/). 
-
-My dissertation explores how advances in decision making algorithms can both improve our understanding of the mechanisms behind observed patterns in social-ecological systems (i.e. agricultural landscapes), and improve our capacity to effectively respond to environmental changes and new information about ecological systems.  The chapters of my dissertation span systems from farms to forests to fisheries, seeking to examine both protection and production in a rapidly changing world.  And while we pave a path for the next decade of conservation science in the wake of more advanced decision-making algorithms, my dissertation explores why we must simultaneously, and urgently, ask the question: Whose values are shaping decisions about our planet’s health?
-
-My current work is largely thanks to the mentorship from my PhD advisors, Carl Boettiger and Justin Brashares, and my wonderfully supportive labmates in the [Boettiger Group](https://www.carlboettiger.info/) and [Brashares Group](https://nature.berkeley.edu/BrasharesGroup/). Much of my research is informed by the many mentors, collaborators, and coworkers I had during my time as a research assistant at the [Woodwell Climate Research Center](https://www.woodwellclimate.org/) and motivated by my teenage years working on (sub)urban farms and food justice issues in my local community with [The Food Project](https://thefoodproject.org/).
+I am a PhD candidate at UC Berkeley in the department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/),  and a fellow at the UC Berkeley [Center for Society Technology and Policy](https://ctsp.berkeley.edu/). 
 
  
 
