@@ -22,9 +22,10 @@ organizations:
 
 interests:
 - Conservation science
-- Decision theory
+- Biodiversity
 - Social-ecological systems
 - Climate solutions
+- Decision theory
 - Data science
 
 education:
