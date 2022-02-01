@@ -75,5 +75,5 @@ user_groups:
 
 I am a PhD candidate at UC Berkeley in the department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/),  and a fellow at the UC Berkeley [Center for Society Technology and Policy](https://ctsp.berkeley.edu/). 
 
- 
+
 

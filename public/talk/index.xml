@@ -1,30 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | </title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-    </image>
-    
+    <title>Recent &amp; Upcoming Talks on </title>
+    <link>https://milliechapman.netlify.app/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 13:00:00 +0000</lastBuildDate><atom:link href="https://milliechapman.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tipping points in diversified farming systems</title>
-      <link>/talk/esa20/</link>
+      <link>https://milliechapman.netlify.app/talk/esa20/</link>
       <pubDate>Wed, 05 Aug 2020 13:00:00 +0000</pubDate>
-      <guid>/talk/esa20/</guid>
+      
+      <guid>https://milliechapman.netlify.app/talk/esa20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A global analysis of woody above ground carbon in crop and pasture lands</title>
-      <link>/talk/agu18/</link>
+      <link>https://milliechapman.netlify.app/talk/agu18/</link>
       <pubDate>Tue, 11 Dec 2018 13:00:00 +0000</pubDate>
-      <guid>/talk/agu18/</guid>
+      
+      <guid>https://milliechapman.netlify.app/talk/agu18/</guid>
       <description></description>
     </item>
     

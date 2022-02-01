@@ -1,35 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christian P Schmidt | </title>
-    <link>/author/christian-p-schmidt/</link>
-      <atom:link href="/author/christian-p-schmidt/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christian P Schmidt</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 03 May 2014 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Christian P Schmidt</title>
-      <link>/author/christian-p-schmidt/</link>
-    </image>
-    
+    <title>Christian P Schmidt on </title>
+    <link>https://milliechapman.netlify.app/author/christian-p-schmidt/</link>
+    <description>Recent content in Christian P Schmidt on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://milliechapman.netlify.app/author/christian-p-schmidt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impaired consciousness in partial seizures is bimodally distributed</title>
-      <link>/publication/neuro/</link>
+      <link>https://milliechapman.netlify.app/publication/neuro/</link>
       <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/neuro/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      
+      <guid>https://milliechapman.netlify.app/publication/neuro/</guid>
+      <description></description>
     </item>
     
   </channel>

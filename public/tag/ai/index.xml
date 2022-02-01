@@ -1,38 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI | </title>
-    <link>/tag/ai/</link>
-      <atom:link href="/tag/ai/index.xml" rel="self" type="application/rss+xml" />
-    <description>AI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>AI</title>
-      <link>/tag/ai/</link>
-    </image>
-    
+    <title>AI on </title>
+    <link>https://milliechapman.netlify.app/tag/ai/</link>
+    <description>Recent content in AI on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://milliechapman.netlify.app/tag/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecological impacts of mesopelagic fisheries</title>
-      <link>/project/mesopelagics/</link>
+      <link>https://milliechapman.netlify.app/project/mesopelagics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/mesopelagics/</guid>
+      
+      <guid>https://milliechapman.netlify.app/project/mesopelagics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Environmental conservation in the age of algorithms</title>
-      <link>/project/alg_cons/</link>
+      <link>https://milliechapman.netlify.app/project/alg_cons/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/alg_cons/</guid>
+      
+      <guid>https://milliechapman.netlify.app/project/alg_cons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tipping points in diversified farming systems</title>
-      <link>/project/ses/</link>
+      <link>https://milliechapman.netlify.app/project/ses/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/ses/</guid>
+      
+      <guid>https://milliechapman.netlify.app/project/ses/</guid>
       <description></description>
     </item>
     

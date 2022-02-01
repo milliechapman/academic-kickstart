@@ -1,434 +1,256 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/</loc>
+    <loc>https://milliechapman.netlify.app/</loc>
     <lastmod>2020-08-05T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/talk/</loc>
     <lastmod>2020-08-05T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/esa20/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/talk/esa20/</loc>
     <lastmod>2020-08-05T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication-type/2/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/dm/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/dm/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/authors/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/larry-crowder/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/larry-crowder/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/melissa-millie-chapman/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/melissa-millie-chapman/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication_types/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/source-themes/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tags/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/william-oesteich/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/william-oesteich/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alessandro-baccini/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/alessandro-baccini/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bronson-griscom/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/bronson-griscom/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/tic/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/tic/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/mary-farina/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/mary-farina/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/peter-ellis/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/peter-ellis/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/susan-cook-patton/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/susan-cook-patton/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/wayne-walker/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/wayne-walker/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bronson-w-griscom/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/bronson-w-griscom/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/charlotte-streck/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/charlotte-streck/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/deborah-lawrence/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/deborah-lawrence/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/diego-navarrete/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/diego-navarrete/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/emily-landis/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/emily-landis/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/guy-lomax/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/guy-lomax/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jason-funk/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/jason-funk/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jens-engelmann/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/jens-engelmann/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/jonah-busch/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/jonah-busch/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lisa-schindler-murray/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/lisa-schindler-murray/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/melissa-chapman/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/melissa-chapman/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ncs/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/ncs/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/noel-p-gurwick/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/noel-p-gurwick/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pete-smith/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/pete-smith/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/peter-w-ellis/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/peter-w-ellis/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sabrina-scull/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/sabrina-scull/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sara-m-leavitt/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/sara-m-leavitt/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/stephanie-roe/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/stephanie-roe/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/susan-c-cook-patton/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/susan-c-cook-patton/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/thomas-worthington/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/thomas-worthington/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/wayne-s-walker/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/wayne-s-walker/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/will-r-turner/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/will-r-turner/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/yadvinder-malhi/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/yadvinder-malhi/</loc>
     <lastmod>2020-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/agu18/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/talk/agu18/</loc>
     <lastmod>2018-12-11T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/arild-vatn/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/arild-vatn/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/glenn-bush/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/glenn-bush/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/redd/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/redd/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/raymond-achu-samndong/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/raymond-achu-samndong/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/abnj/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/abnj/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/agroforestry/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/agroforestry/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/ai/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/ai/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/abnj/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/abnj/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/conservation/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/conservation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/mesopelagics/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/mesopelagics/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/alg_cons/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/alg_cons/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/environmental-justice/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/environmental-justice/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/optimization/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/optimization/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/power/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/power/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/social-ecological-systems/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/tag/social-ecological-systems/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/ses/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/ses/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/sesync-grad/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/project/sesync-grad/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/nmt/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/nmt/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/brendan-d-galvin/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/brendan-d-galvin/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/catherine-b-poole/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/catherine-b-poole/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/clotilde-ks-carlow/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/clotilde-ks-carlow/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-p-pollastri/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/michael-p-pollastri/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/paul-g-wyatt/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/paul-g-wyatt/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/zhiru-li-estelle-villemaine/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/zhiru-li-estelle-villemaine/</loc>
     <lastmod>2014-09-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/andrew-shorten/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/andrew-shorten/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/anne-bozik/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/anne-bozik/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/cameron-best/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/cameron-best/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/christian-p-schmidt/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/christian-p-schmidt/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/courtney-cunningham/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/courtney-cunningham/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/hal-blumenfeld/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/hal-blumenfeld/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/neuro/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/publication/neuro/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/joseph-t-giacino/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/joseph-t-giacino/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/kamil-detyniecki/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/kamil-detyniecki/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-mcclurkin/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/michael-mcclurkin/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/moran-furman/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/moran-furman/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tenzin-choezom/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/tenzin-choezom/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/victoria-chu/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/victoria-chu/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/william-c-chen/</loc>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/author/william-c-chen/</loc>
     <lastmod>2014-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://milliechapman.netlify.app/categories/</loc>
   </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
 </urlset>
