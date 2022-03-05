@@ -1,92 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on Millie Chapman</title>
     <link>https://milliechapman.netlify.app/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on Millie Chapman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://milliechapman.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Source Themes</title>
-      <link>https://milliechapman.netlify.app/tag/source-themes/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ABNJ</title>
-      <link>https://milliechapman.netlify.app/tag/abnj/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/abnj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agroforestry</title>
-      <link>https://milliechapman.netlify.app/tag/agroforestry/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/agroforestry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://milliechapman.netlify.app/tag/ai/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conservation</title>
-      <link>https://milliechapman.netlify.app/tag/conservation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/conservation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Environmental Justice</title>
-      <link>https://milliechapman.netlify.app/tag/environmental-justice/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/environmental-justice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimization</title>
-      <link>https://milliechapman.netlify.app/tag/optimization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/optimization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power</title>
-      <link>https://milliechapman.netlify.app/tag/power/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/power/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social-ecological systems</title>
-      <link>https://milliechapman.netlify.app/tag/social-ecological-systems/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/tag/social-ecological-systems/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language>
+    <copyright>cc-by</copyright><atom:link href="https://milliechapman.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

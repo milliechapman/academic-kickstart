@@ -1,127 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Millie Chapman</title>
     <link>https://milliechapman.netlify.app/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Millie Chapman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 13:00:00 +0000</lastBuildDate><atom:link href="https://milliechapman.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>cc-by</copyright><atom:link href="https://milliechapman.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tipping points in diversified farming systems</title>
-      <link>https://milliechapman.netlify.app/talk/esa20/</link>
-      <pubDate>Wed, 05 Aug 2020 13:00:00 +0000</pubDate>
+      <title>Credits</title>
+      <link>https://milliechapman.netlify.app/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://milliechapman.netlify.app/talk/esa20/</guid>
-      <description></description>
+      <guid>https://milliechapman.netlify.app/credits/</guid>
+      <description>Made with Hugo Apéro. Based on Blogophonic by Formspree.
+All photos are my own.</description>
     </item>
     
     <item>
-      <title>A comparative analysis of dynamic management in marine and terrestrial systems</title>
-      <link>https://milliechapman.netlify.app/publication/dm/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Policy</title>
+      <link>https://milliechapman.netlify.app/policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://milliechapman.netlify.app/publication/dm/</guid>
-      <description></description>
+      <guid>https://milliechapman.netlify.app/policy/</guid>
+      <description>ol { display: flex; flex-direction: column-reverse; }  Translating science into policy is an important part of my work. Currently, I am a science consultant and technical writer for the California 30x30 Initiative and am broadly interested in conservation and climate policy at global, national, and sub-national scales.
+A selected list of technical reports, white papers, and policy documents that I have contributed to writing can be found below:</description>
     </item>
     
     <item>
-      <title>Large climate mitigation potential from adding trees to agricultural lands</title>
-      <link>https://milliechapman.netlify.app/publication/tic/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Publications</title>
+      <link>https://milliechapman.netlify.app/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://milliechapman.netlify.app/publication/tic/</guid>
-      <description></description>
+      <guid>https://milliechapman.netlify.app/publications/</guid>
+      <description>ol { display: flex; flex-direction: column-reverse; }   Google Scholar | ORCID
+  Cunningham, et al. [including Chapman] (2014). Impaired consciousness in partial seizures is bimodally distributed. Neurology. PDF
+  Galvin, Li, Villemaine, Poole,Chapman, Pollastri, Wyatt, Carlow. (2014). A Target Repurposing Approach Identifies N-myristoyltransferase as a New Candidate Drug Target in Filarial Nematodes. PLoS Neglected Tropical Diseases. PDF
+  Samndong, Bush, Vatn, and Chapman. (2018). Institutional analysis of causes of deforestation in REDD+ pilot sites in the Equateur province: Implication for REDD+ in the Democratic Republic of Congo.</description>
     </item>
     
     <item>
-      <title>National mitigation potential from natural climate solutions in the tropics</title>
-      <link>https://milliechapman.netlify.app/publication/ncs/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Teaching and Mentoring</title>
+      <link>https://milliechapman.netlify.app/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://milliechapman.netlify.app/publication/ncs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A global analysis of woody above ground carbon in crop and pasture lands</title>
-      <link>https://milliechapman.netlify.app/talk/agu18/</link>
-      <pubDate>Tue, 11 Dec 2018 13:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/talk/agu18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Institutional analysis of causes of deforestation in REDD&#43; pilot sites in the Equateur province: Implication for REDD&#43; in the Democratic Republic of Congo</title>
-      <link>https://milliechapman.netlify.app/publication/redd/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/publication/redd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Centering environmental justice in the prioritization of high seas protection</title>
-      <link>https://milliechapman.netlify.app/project/abnj/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/project/abnj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecological impacts of mesopelagic fisheries</title>
-      <link>https://milliechapman.netlify.app/project/mesopelagics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/project/mesopelagics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Environmental conservation in the age of algorithms</title>
-      <link>https://milliechapman.netlify.app/project/alg_cons/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/project/alg_cons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tipping points in diversified farming systems</title>
-      <link>https://milliechapman.netlify.app/project/ses/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/project/ses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Using Decision Making Models to Design Effective Policy for Natural Climate Solutions</title>
-      <link>https://milliechapman.netlify.app/project/sesync-grad/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/project/sesync-grad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A target repurposing approach identifies N-myristoyltransferase as a new candidate drug target in filarial nematodes</title>
-      <link>https://milliechapman.netlify.app/publication/nmt/</link>
-      <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/publication/nmt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impaired consciousness in partial seizures is bimodally distributed</title>
-      <link>https://milliechapman.netlify.app/publication/neuro/</link>
-      <pubDate>Sat, 03 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://milliechapman.netlify.app/publication/neuro/</guid>
-      <description></description>
+      <guid>https://milliechapman.netlify.app/teaching/</guid>
+      <description>ESPM 157: Data Science for Global Change Ecology     (Graduate Student Instructor) ESPM 157, is an upper division undergraduate course, covering reproducible data science methods in the context of global change ecology. Beyond assisting with the course, I worked on developing and teaching a new learning module on exploring open source geospatial methods through an environmental justice lens (you can check out the module and corresponding code template if interested!</description>
     </item>
     
   </channel>

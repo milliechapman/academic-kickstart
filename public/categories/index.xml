@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on </title>
+    <title>Categories on Millie Chapman</title>
     <link>https://milliechapman.netlify.app/categories/</link>
-    <description>Recent content in Categories on </description>
+    <description>Recent content in Categories on Millie Chapman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://milliechapman.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>cc-by</copyright><atom:link href="https://milliechapman.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
