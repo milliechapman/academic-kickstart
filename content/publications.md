@@ -10,6 +10,7 @@ ol  { display: flex; flex-direction: column-reverse; }
 
 [Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-1377-1539) 
 
+
 1. Cunningham, et al. [including __Chapman__] (2014). Impaired consciousness in partial seizures is bimodally distributed. _Neurology._ <br />
 [PDF](https://n.neurology.org/content/82/19/1736.short)
 
@@ -55,7 +56,7 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 16. ^Dowd, __Chapman__, Koehn, Hoagland. (2022) The economic tradeoffs and ecological impacts associated with a potential mesopelagic fishery in the California Current. _Ecological Applications._ <br /> [code](https://github.com/boettiger-lab/mesopelagic-fishing) | [PDF](https://doi.org/10.1002/eap.2578)  
 ^undergraduate thesis mentee 
 
-17. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_ (In Press). <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF]() 
+17. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_. <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF](https://authors.elsevier.com/a/1ejN29C%7EItyKyU) 
 
 18. (preprint/In review) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
 [preprint](https://ecoevorxiv.org/entgj/)
