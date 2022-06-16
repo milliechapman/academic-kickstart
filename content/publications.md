@@ -58,14 +58,17 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 17. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_. <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF](https://authors.elsevier.com/a/1ejN29C%7EItyKyU) 
 
-18. (preprint/In review) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
-[preprint](https://ecoevorxiv.org/entgj/)
-
-19. (preprint/In review) Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. <br /> 
+18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. _Methods in Ecology and Evolution (Accepted)_ <br /> 
 [code](https://github.com/boettiger-lab/rl-intro)  | [preprint](https://arxiv.org/pdf/2106.08272.pdf)
 
-20. (preprint/In review) __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> 
+19. (preprint) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
+[preprint](https://ecoevorxiv.org/entgj/)
+
+20. (preprint) __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> 
 [code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
+
+21. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
+[preprint](https://ecoevorxiv.org/ex6w2/)
 
 
 
