@@ -61,13 +61,16 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. _Methods in Ecology and Evolution (Accepted)_ <br /> 
 [code](https://github.com/boettiger-lab/rl-intro)  | [preprint](https://arxiv.org/pdf/2106.08272.pdf)
 
-19. (preprint) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
+19.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> 
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3514094.3539540)
+
+20. (preprint) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
 [preprint](https://ecoevorxiv.org/entgj/)
 
-20. (preprint) __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> 
+21. (preprint) __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> 
 [code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
 
-21. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
+22. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
 [preprint](https://ecoevorxiv.org/ex6w2/)
 
 
