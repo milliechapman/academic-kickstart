@@ -86,13 +86,13 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 _Some of what I'm actively working on! Full drafts of first author papers listed here as in-prep or in-review are available upon request_
 
-1.  Chapman, M., Goldstein, B., Schell, C., Boettiger, C., & et al. (2023). Social and political dimensions of biodiversity monitoring (in prep).
+1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. (2023). Social and political dimensions of biodiversity monitoring (in prep).
 
-2. Chapman, Jung, Boettiger, Brashares, Visconti. (2023). Spatial prioritization of conservation and restoration measures to meet 2030 biodiversity targets in the eu (in prep).
+2. __Chapman__, Jung, Boettiger, Brashares, Visconti. (2023). Spatial prioritization of conservation and restoration measures to meet 2030 biodiversity targets in the eu (in prep).
 
-3. Hasting^,  Ocloo^, Chapman^, Hunt^, Stenger. (2023). Toward socially just transitions to agroforestry for climate mitigation and adaptation (in review). ^equal contributions
+3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. (2023). Trends in agroforestry research over four decades (in review). ^equal contributions
 
-4. Montealegre-Mora, Laperolerie, Chapman, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in prep).
+4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in prep).
 
-5. Scoville, Faxon, Chapman, & et al. (2023). Environment, society and machine learning (in review).
+5. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (in review).
 
