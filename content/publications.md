@@ -60,15 +60,15 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 17. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_. <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF](https://authors.elsevier.com/a/1ejN29C%7EItyKyU) 
 
-18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. _Methods in Ecology and Evolution (Accepted)_ <br /> 
-[code](https://github.com/boettiger-lab/rl-intro)  | [preprint](https://arxiv.org/pdf/2106.08272.pdf)
+18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. (2022). _Methods in Ecology and Evolution_ <br /> 
+[code](https://github.com/boettiger-lab/rl-intro)  | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13954)
 
 19.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
 [PDF](doi:10.32942/osf.io/e5umr)
 
 20.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (Accepted)_.
 
-21.  __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> _Conservation Science and Practice (Accepted)_
+21.  __Chapman__, Boettiger, Brashares. (2023) The potential contribution of private lands to the U.S. 30x30 conservation target. _Conservation Science and Practice (Accepted)_. <br />
 [code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
 
 ## Preprints 
