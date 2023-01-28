@@ -63,23 +63,20 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. _Methods in Ecology and Evolution (Accepted)_ <br /> 
 [code](https://github.com/boettiger-lab/rl-intro)  | [preprint](https://arxiv.org/pdf/2106.08272.pdf)
 
-19.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
-[PDF](https://dl.acm.org/doi/pdf/10.1145/3514094.3539540)
-
-20.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
+19.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
 [PDF](doi:10.32942/osf.io/e5umr)
 
-21.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (Accepted)_.
+20.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (Accepted)_.
+
+21.  __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> _Conservation Science and Practice (Accepted)_
+[code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
 
 ## Preprints 
 
 1. (preprint) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
 [preprint](https://ecoevorxiv.org/entgj/)
 
-2. (preprint) __Chapman__, Boettiger, Brashares. The potential contribution of private lands to the U.S. 30x30 conservation target. <br /> 
-[code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
-
-3. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
+2. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
 [preprint](https://ecoevorxiv.org/ex6w2/)
 
 ## In prep/In review
@@ -96,3 +93,7 @@ _Some of what I'm actively working on! Full drafts of first author papers listed
 
 5. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (in review).
 
+## Workshop contributions
+
+1.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3514094.3539540)
