@@ -66,10 +66,11 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 19.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
 [PDF](doi:10.32942/osf.io/e5umr)
 
-20.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (Accepted)_.
+20.  __Chapman__, Boettiger, Brashares. (2023) Leveraging private lands to meet 2030 biodiversity targets in the United States. _Conservation Science and Practice_. <br />
+[code](https://github.com/milliechapman/easements-biodiversity)  | [PDF](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/csp2.12897)
 
-21.  __Chapman__, Boettiger, Brashares. (2023) The potential contribution of private lands to the U.S. 30x30 conservation target. _Conservation Science and Practice (Accepted)_. <br />
-[code](https://github.com/milliechapman/easements-biodiversity)  | [preprint](https://ecoevorxiv.org/pb2s8/)
+21.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (In press)_.
+[PDF](https://arxiv.org/abs/2303.08731)
 
 ## Preprints 
 
@@ -81,7 +82,7 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 ## In prep/In review
 
-_Some of what I'm actively working on! Full drafts of first author papers listed here as in-prep or in-review are available upon request_
+_Some of what I'm more actively working on! Full drafts of first author papers listed here as in-prep or in-review are available upon request_
 
 1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. (2023). Social and political dimensions of biodiversity monitoring (in prep).
 
@@ -89,7 +90,7 @@ _Some of what I'm actively working on! Full drafts of first author papers listed
 
 3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. (2023). Trends in agroforestry research over four decades (in review). ^equal contributions
 
-4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in prep).
+4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in review).
 
 5. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (in review).
 
