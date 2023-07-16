@@ -3,11 +3,11 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: | 
-  I am a PhD candidate at UC Berkeley in the department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), a graduate student fellow at the [UC Berkeley Center for Technology, Society, and Policy](https://ctsp.berkeley.edu/projects-2020/), and a scientific writer for [California's 30x30 Initiative](https://www.californianature.ca.gov/). 
+  I am a PhD candidate at UC Berkeley in the department of [Environmental Science, Policy, and Management (ESPM)](https://ourenvironment.berkeley.edu/), a visiting researcher at the [International Insitute of Applied systems Analysis](https://iiasa.ac.at/), and a core team member at [Climate Change AI](https://www.climatechange.ai/). My research is at the intersection of decision theory, ecology, and data justice, asking how we can create more effective and equitable strategies to meet global environmental targets in an age of algorithms.
 
 image_left: true
 images:
-- img/SEKI.png
+  - img/streetart.png
 show_action_link: true
 show_social_links: true
 subtitle: Social-ecological Systems | Data Science | Conservation Policy 

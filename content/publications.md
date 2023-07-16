@@ -53,46 +53,47 @@ ol  { display: flex; flex-direction: column-reverse; }
 Applications to Environmental Policy.  _35th Conference on Neural Information Processing Systems (NeurIPS 2021)_. <br />
 [PDF](https://openreview.net/pdf?id=6OnoKEFVD_G)
 
-15. Moravek et al., [including __Chapman__].  (2022) Centering 30x30 conservation initiatives on freshwater ecosystems.  _Frontiers in Ecology and the Environment (Accepted)_. 
-
-16. ^Dowd, __Chapman__, Koehn, Hoagland. (2022) The economic tradeoffs and ecological impacts associated with a potential mesopelagic fishery in the California Current. _Ecological Applications._ <br /> [code](https://github.com/boettiger-lab/mesopelagic-fishing) | [PDF](https://doi.org/10.1002/eap.2578)  
+15. ^Dowd, __Chapman__, Koehn, Hoagland. (2022) The economic tradeoffs and ecological impacts associated with a potential mesopelagic fishery in the California Current. _Ecological Applications._ <br /> [code](https://github.com/boettiger-lab/mesopelagic-fishing) | [PDF](https://doi.org/10.1002/eap.2578)  
 ^undergraduate thesis mentee 
 
-17. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_. <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF](https://authors.elsevier.com/a/1ejN29C%7EItyKyU) 
+16. __Chapman__, Wiltshire, Baur, Bowles, Carlisle, Castillo, Esquivel, Gennet, Iles, Karp, Kremen, Liebert, Olimpi, Ory, Ryan, Sciligo, Thompson, Waterhouse, Boettiger. (2022). Social-ecological feedbacks drive tipping points in farming system diversification. _One Earth_. <br /> [code](https://github.com/boettiger-lab/dfs-mdp) | [PDF](https://authors.elsevier.com/a/1ejN29C%7EItyKyU) 
 
-18. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. (2022). _Methods in Ecology and Evolution_ <br /> 
+17. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. (2022). _Methods in Ecology and Evolution_ <br /> 
 [code](https://github.com/boettiger-lab/rl-intro)  | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13954)
 
-19.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
+18.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
 [PDF](doi:10.32942/osf.io/e5umr)
+
+19. Moravek et al., [including __Chapman__].  (2023) Centering 30x30 conservation initiatives on freshwater ecosystems.  _Frontiers in Ecology and the Environment_. 
 
 20.  __Chapman__, Boettiger, Brashares. (2023) Leveraging private lands to meet 2030 biodiversity targets in the United States. _Conservation Science and Practice_. <br />
 [code](https://github.com/milliechapman/easements-biodiversity)  | [PDF](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/csp2.12897)
 
-21.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B (In press)_.
+21.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B_.
 [PDF](https://arxiv.org/abs/2303.08731)
 
-## Preprints 
+22. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
 
-1. (preprint) Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
-[preprint](https://ecoevorxiv.org/entgj/)
-
-2. (preprint) Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. <br /> 
-[preprint](https://ecoevorxiv.org/ex6w2/)
 
 ## In prep/In review
 
-_Some of what I'm more actively working on! Full drafts of first author papers listed here as in-prep or in-review are available upon request_
+_Some of my more recent work! Full drafts of any first author papers listed here as are available upon request - feel free to reach out!_
 
-1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. (2023). Social and political dimensions of biodiversity monitoring (in prep).
+1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future (in revision).
 
-2. __Chapman__, Jung, Boettiger, Brashares, Visconti. (2023). Spatial prioritization of conservation and restoration measures to meet 2030 biodiversity targets in the eu (in prep).
+2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands (in prep).
 
-3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. (2023). Trends in agroforestry research over four decades (in review). ^equal contributions
+3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades (in revision). ^equal contributions
 
-4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in review).
+4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in revision).
 
-5. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (in review).
+5. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023) (in revision) <br /> 
+[preprint](https://ecoevorxiv.org/ex6w2/)
+
+6. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
+[preprint](https://ecoevorxiv.org/entgj/)
+
+7. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. [preprint](https://osf.io/8x2ug)
 
 ## Workshop contributions
 
