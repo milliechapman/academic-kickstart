@@ -30,7 +30,7 @@ enableGitInfo = true
 [params]
   orgName = "Department of Environmental Science, Policy and Management"
   orgLocal = "University of California, Berkeley"
-  description = "Social-ecological systems | Decision Theory | Conservation Policy "
+  description = "Social-Ecological Systems | Decision Theory | Conservation Policy | Data Justice"
   favicon = "/img/favicon.png"
   logo = ""
   mainSections = ["blog", "project", "talk"]
@@ -137,11 +137,6 @@ enableGitInfo = true
     title = "Teaching"
     url = "/teaching/"
     weight = 6
-  [[menu.header]]
-    name = "talks"
-    title = "Talks"
-    url = "/talks/"
-    weight = 7
   # Configure footer
   [[menu.footer]]
     name = "Credits"

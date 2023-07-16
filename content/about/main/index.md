@@ -7,7 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   
-  My research is at the intersection of ecology, data science, and decision theory. I synthesize data on ecosystems (e.g. biodiversity distributions), social systems (e.g., human perceptions) and institutions (e.g. governance structures) to understand how we can better, and more equitably, manage landscapes and seascapes under uncertainty and global environmental change. My research interests are largely captured by three main themes:
+  My research is at the intersection of ecology, data science, and decision theory. I synthesize data on ecosystems (e.g. biodiversity distributions), social systems (e.g., human perceptions) and institutions (e.g. governance structures) to understand how we can more effectively and equitably manage landscapes and seascapes under uncertainty and global environmental change. My research interests are largely captured by three main themes:
 
   ### (1) Dynamics in social-ecological systems: 
   I leverage computational models and social science methods to explore the  dynamics of social-ecological systems and examine how complex patterns can emerge from feedbacks between human decisions and ecological processes. I also empirically explore patterns of conservation decisions across space (e.g., across political boundaries) and time, to better understand the impact and efficacy of environmental policies. Most of my work on these problems uses the adoption of sustainable management practices on working landscapes as a case study. 
