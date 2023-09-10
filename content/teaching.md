@@ -5,11 +5,11 @@ sidebar:
   show_post_thumbnail: false
 ---
 
-Core to my teaching philosophy is creating experiential, inclusive, and creative learning environments. As a science educator with a primary focus on teaching computational and data science methods through a social-environmental lens, I actively work to break down barriers to quantitative learning with culturally responsive pedagogy. As an interdisciplinary environmental scholar, I am passionate about creating curricula that build up, and on, students' domain interests and life experiences. 
+Core to my teaching philosophy is creating experiential, inclusive, and creative learning environments. As a science educator with a primary focus on teaching computational and data science methods through a social-environmental lens, I actively work to break down barriers to quantitative learning with culturally responsive pedagogy. I am passionate about creating curricula that build up, and on, students' domain interests and life experiences. 
 
 ### Climate Change AI Summer School
 
-I am one of the organizers of the climate change AI summer school, which is designed to educate and prepare participants with a background in artificial intelligence (AI) and/or a background in a climate change-related field to tackle major climate problems using AI.The summer school consists of two independent components: an open-to-all virtual program, which in summer 2023 has over 5,000 participants, and a fully funded "by application"" week long in-person program for 40 students from around the world!
+I was one of the organizers of, and mentors for, the climate change AI summer school, which is designed to educate and prepare participants with a background in artificial intelligence (AI) and/or a background in a climate change-related field to tackle major climate problems using AI. The summer school consists of two independent components: an open-to-all virtual program, which in summer 2023 has over 5,000 participants, and a fully funded "by application" week long in-person program for 40 students from around the world!
 
 ### ESPM 157: Data Science for Global Change Ecology
 (Graduate Student Instructor)  [ESPM 157](https://espm-157.carlboettiger.info/), is an upper division undergraduate course, covering 

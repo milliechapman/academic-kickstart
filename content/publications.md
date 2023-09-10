@@ -66,36 +66,35 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 19. Moravek et al., [including __Chapman__].  (2023) Centering 30x30 conservation initiatives on freshwater ecosystems.  _Frontiers in Ecology and the Environment_. 
 
-20.  __Chapman__, Boettiger, Brashares. (2023) Leveraging private lands to meet 2030 biodiversity targets in the United States. _Conservation Science and Practice_. <br />
+20. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. (2023). Including rural america in academic conservation science. _Frontiers in Conservation Science._  <br /> 
+[PDF](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1227227/full)
+
+21.  __Chapman__, Boettiger, Brashares. (2023) Leveraging private lands to meet 2030 biodiversity targets in the United States. _Conservation Science and Practice_. <br />
 [code](https://github.com/milliechapman/easements-biodiversity)  | [PDF](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/csp2.12897)
 
-21.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B_.
+22.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B_.
 [PDF](https://arxiv.org/abs/2303.08731)
 
-22. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
+23. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
 
-23. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (Accepted)
+24. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? _Bulletin of Mathematical Biology_
 
-24. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023) (Accepted) <br /> 
-[preprint](https://ecoevorxiv.org/ex6w2/)
+25. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023). _Nature Human Behavior_. <br /> [pdf](https://www.nature.com/articles/s41562-023-01688-5)
+
+26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. (2023). _Elementa (In press)_ <br /> ^equal contributions 
 
 ## In the works
 
 _Some of my more recent work! Full drafts of any first author papers listed here as are available upon request - feel free to reach out!_
 
-1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review)
+1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review at Science)
 
-2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. (In prep)
+2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. (In prep). <br /> [code]( https://github.com/milliechapman/EU-restoration-prioritization)
 
-3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. ^equal contributions (In review)
 
-4. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection? (In review)  <br /> 
-[preprint](https://ecoevorxiv.org/entgj/)
+3. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at Philosphical Transactions of the Royal Society B)  <br /> [preprint](https://osf.io/8x2ug)
 
-5. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review)  <br /> [preprint](https://osf.io/8x2ug)
-
-6. Oliver, __Chapman__, (In review)
-
+4. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI. (In review at environmental data science).
 
 
 ## Workshop contributions
