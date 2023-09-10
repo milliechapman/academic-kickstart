@@ -74,26 +74,29 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 22. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
 
+23. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (Accepted)
 
-## In prep/In review
+24. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023) (Accepted) <br /> 
+[preprint](https://ecoevorxiv.org/ex6w2/)
+
+## In the works
 
 _Some of my more recent work! Full drafts of any first author papers listed here as are available upon request - feel free to reach out!_
 
-1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future (in revision).
+1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review)
 
-2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands (in prep).
+2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. (In prep)
 
-3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades (in revision). ^equal contributions
+3. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. ^equal contributions (In review)
 
-4. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? (in revision).
-
-5. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023) (in revision) <br /> 
-[preprint](https://ecoevorxiv.org/ex6w2/)
-
-6. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection?  <br /> 
+4. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. Building bridges in the post-Trump era: can conservation scientists help recover bipartisan support for U.S. environmental protection? (In review)  <br /> 
 [preprint](https://ecoevorxiv.org/entgj/)
 
-7. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. [preprint](https://osf.io/8x2ug)
+5. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review)  <br /> [preprint](https://osf.io/8x2ug)
+
+6. Oliver, __Chapman__, (In review)
+
+
 
 ## Workshop contributions
 
