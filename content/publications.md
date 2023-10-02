@@ -77,11 +77,11 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 23. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
 
-24. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? _Bulletin of Mathematical Biology_
+24. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? _Bulletin of Mathematical Biology_  <br /> [PDF](https://link.springer.com/article/10.1007/s11538-023-01198-5)
 
-25. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023). _Nature Human Behavior_. <br /> [pdf](https://www.nature.com/articles/s41562-023-01688-5)
+25. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023). _Nature Human Behavior_. <br /> [PDF](https://www.nature.com/articles/s41562-023-01688-5)
 
-26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. (2023). _Elementa (In press)_ <br /> ^equal contributions 
+26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. (2023). _Elementa (In press)_ . <br /> ^equal contributions 
 
 ## In the works
 
