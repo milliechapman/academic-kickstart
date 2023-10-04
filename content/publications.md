@@ -8,10 +8,23 @@ sidebar:
 ol  { display: flex; flex-direction: column-reverse; }
 </style>
 
-## Peer-reviewed 
+
 
 [Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-1377-1539) 
 
+### In review
+
+27. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at Philosphical Transactions of the Royal Society B)  <br /> [preprint](https://osf.io/8x2ug)
+
+28. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI. (In review at Environmental Data Science).
+
+29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Global carbon dioxide removal potential of trees in agriculture (in review at Global Change Biology).
+
+30.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review at Science Policy Forum)
+
+31. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
+
+### Peer-reviewed 
 
 1. Cunningham, et al. [including __Chapman__] (2014). Impaired consciousness in partial seizures is bimodally distributed. _Neurology._ <br />
 [PDF](https://n.neurology.org/content/82/19/1736.short)
@@ -82,19 +95,6 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 25. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023). _Nature Human Behavior_. <br /> [PDF](https://www.nature.com/articles/s41562-023-01688-5)
 
 26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. (2023). _Elementa (In press)_ . <br /> ^equal contributions 
-
-## In the works
-
-_Some of my more recent work! Full drafts of any first author papers listed here as are available upon request - feel free to reach out!_
-
-1.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review at Science)
-
-2. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. (In prep). <br /> [code]( https://github.com/milliechapman/EU-restoration-prioritization)
-
-
-3. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at Philosphical Transactions of the Royal Society B)  <br /> [preprint](https://osf.io/8x2ug)
-
-4. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI. (In review at environmental data science).
 
 
 ## Workshop contributions
