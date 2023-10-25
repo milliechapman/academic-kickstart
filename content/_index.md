@@ -7,7 +7,7 @@ description: |
   
 image_left: true
 images:
-  - img/streetart.png
+  - img/SEKI-old.png
 show_action_link: true
 show_social_links: true
 subtitle: Social-ecological Systems | Data Science | Conservation Policy 
