@@ -72,10 +72,10 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 17. Lapeyrolerie, __Chapman__, Norman, Boettiger. Deep Reinforcement Learning for Conservation Decisions. (2022). _Methods in Ecology and Evolution_ <br /> 
 [code](https://github.com/boettiger-lab/rl-intro)  | [PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13954)
 
-18.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.
+18.  Estein, __Chapman__, Schell, Lowy, Gerson. (2022). Demystifying the graduate school application process. _Bulletin of the Ecological Society of America_.<br /> 
 [PDF](doi:10.32942/osf.io/e5umr)
 
-19. Moravek et al., [including __Chapman__].  (2023) Centering 30x30 conservation initiatives on freshwater ecosystems.  _Frontiers in Ecology and the Environment_. 
+19. Moravek et al., [including __Chapman__].  (2023) Centering 30x30 conservation initiatives on freshwater ecosystems.  _Frontiers in Ecology and the Environment_.<br />  [PDF](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/fee.2573?af=R)
 
 20. Kurz, Middleton, __Chapman__,Van Houtan, Wilkinson, Withey, and Brashares. (2023). Including rural america in academic conservation science. _Frontiers in Conservation Science._  <br /> 
 [PDF](https://www.frontiersin.org/articles/10.3389/fcosc.2023.1227227/full)
