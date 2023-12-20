@@ -43,7 +43,7 @@ enableGitInfo = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/flower.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "milliechapa"
+  twitter = "milliechapma"
   github="milliechapman"
   repo="academic-kickstart"
   date_format = "June 1, 2020"
@@ -97,6 +97,10 @@ enableGitInfo = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/milliechapma"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/millie-chapman-383a0377/"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
