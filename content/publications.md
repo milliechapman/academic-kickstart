@@ -12,15 +12,15 @@ ol  { display: flex; flex-direction: column-reverse; }
 
 ### In review
 
-27. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at Philosphical Transactions of the Royal Society B)  <br /> [preprint](https://osf.io/8x2ug)
+29. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at _Philosphical Transactions of the Royal Society B_)  <br /> [preprint](https://osf.io/8x2ug)
 
-28. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI. (In review at Environmental Data Science).
+30. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. (in review at _Carbon Balance and Management_).
 
-29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Global carbon dioxide removal potential of trees in agriculture (in review at Global Change Biology).
+31. __Chapman__, Jung, Boettiger, Leclère, Gusti,
+Augustynczik, Ringwald, Visconti. Meeting European conservation and restoration targets under future land-use demands. (in review at _Nature Sustainability_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
 
-30.  __Chapman__, Goldstein, Schell, Boettiger, & et al. Human histories shape the biodiversity data that decides our future. (In review at Science Policy Forum)
-
-31. __Chapman__, Jung, Boettiger, Brashares, Visconti, & et al. (2023). Meeting European conservation and restoration targets under future land-use demands. <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
+32. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
+behavior to understand changing ecosystems (in review at _Trends in Ecology and Evolution_)
 
 ### Peer-reviewed 
 
@@ -83,19 +83,22 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 21.  __Chapman__, Boettiger, Brashares. (2023) Leveraging private lands to meet 2030 biodiversity targets in the United States. _Conservation Science and Practice_. <br />
 [code](https://github.com/milliechapman/easements-biodiversity)  | [PDF](https://conbio.onlinelibrary.wiley.com/doi/pdf/10.1111/csp2.12897)
 
-22.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B_.
+22.  __Chapman__, Xu, Lapeyrolerie, Boettiger. (2023). Bridging adaptive management and reinforcement learning for more robust decisions. _Philosophical Transactions of the Royal Society B_. <br />
 [PDF](https://arxiv.org/abs/2303.08731)
 
-23. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning (In press).
+23. Scoville, Faxon, __Chapman__, & et al. (2023). Environment, society and machine learning. _The Oxford Handbook of the Sociology of Machine Learning_. [PDF](https://doi.org/10.1093/oxfordhb/9780197653609.013.8 )
 
 24. Montealegre-Mora, Laperolerie, __Chapman__, Boettiger. (2023). Pretty darn good control: When are approximate solutions better than approximate models? _Bulletin of Mathematical Biology_  <br /> [PDF](https://link.springer.com/article/10.1007/s11538-023-01198-5)
 
 25. Ellis-Soto, __Chapman__, Locke. Uneven biodiversity sampling across redlined urban areas in the United States. (2023). _Nature Human Behavior_. <br /> [PDF](https://www.nature.com/articles/s41562-023-01688-5)
 
-26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over four decades. (2023). _Elementa (In press)_ . <br /> ^equal contributions 
+26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over 4 decades. (2023). _Elementa: Science of the Anthropocene_ . <br /> [PDF](https://online.ucpress.edu/elementa/article/11/1/00151/197741) ^equal contributions 
 
+27. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI.(2024). _Environmental Data Science_. (Accepted)
+
+28.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_. (In press).
 
 ## Workshop contributions
 
-1.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
+1.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. (2022) _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3514094.3539540)
