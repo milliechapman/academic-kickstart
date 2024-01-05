@@ -96,7 +96,7 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 27. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI.(2024). _Environmental Data Science_. (Accepted)
 
-28.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_. (In press).
+28.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
 
 ## Workshop contributions
 
