@@ -11,5 +11,4 @@ Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xml
 
 All photos are my own. 
 
-Street art on front page is my own and was sprayed on legal walls in Vienna, Austria with guidance of a local studio.
 

@@ -8,21 +8,8 @@ sidebar:
 ol  { display: flex; flex-direction: column-reverse; }
 </style>
 
-[Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-1377-1539) 
-
-### In review
-
-29. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. (In review at _Philosphical Transactions of the Royal Society B_)  <br /> [preprint](https://osf.io/8x2ug)
-
-30. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. (in review at _Carbon Balance and Management_).
-
-31. __Chapman__, Jung, Boettiger, Leclère, Gusti,
-Augustynczik, Ringwald, Visconti. Meeting European conservation and restoration targets under future land-use demands. (in review at _Nature Sustainability_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
-
-32. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
-behavior to understand changing ecosystems (in review at _Trends in Ecology and Evolution_)
-
-### Peer-reviewed 
+Please visit my
+[Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) or  [ORCID](https://orcid.org/0000-0002-1377-1539) for the most up-to-date list of publications.
 
 1. Cunningham, et al. [including __Chapman__] (2014). Impaired consciousness in partial seizures is bimodally distributed. _Neurology._ <br />
 [PDF](https://n.neurology.org/content/82/19/1736.short)
@@ -94,9 +81,21 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 26. Hasting^,  Ocloo^, __Chapman__^, Hunt^, Stenger. Trends in agroforestry research over 4 decades. (2023). _Elementa: Science of the Anthropocene_ . <br /> [PDF](https://online.ucpress.edu/elementa/article/11/1/00151/197741) ^equal contributions 
 
-27. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI.(2024). _Environmental Data Science_. (Accepted)
+27. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI.(2024). _Environmental Data Science_. <br /> [PDF](https://doi.org/10.1017/eds.2024.12) 
 
-28.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
+28. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. _Philosphical Transactions of the Royal Society B_.  <br /> [PDF](https://doi.org/10.1098/rstb.2023.0015)
+
+29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. (In Press at _Carbon Balance and Management_).
+
+30.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
+
+31. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
+behavior to understand changing ecosystems. _Trends in Ecology and Evolution_. 
+<br /> [PDF](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00145-9)
+
+32. (Preprint) __Chapman__, Jung, Boettiger, Leclère, Gusti,
+Augustynczik, Ringwald, Visconti. Meeting European conservation and restoration targets under future land-use demands. (in review at _Nature EcoEvo_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
+
 
 ## Workshop contributions
 

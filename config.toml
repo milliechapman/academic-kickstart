@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "en"
 title = "Millie Chapman"
 author = "Millie Chapman"
-copyright = "cc-by" # set to override the auto generated copyright using org info and now year
+copyright = "&copy 2024 Millie Chapman" # set to override the auto generated copyright using org info and now year
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -122,8 +122,8 @@ enableGitInfo = true
 [menu]
   # Configure header
     [[menu.header]]
-    name = "About"
-    title = "About"
+    name = "Research"
+    title = "Research"
     url = "/about/"
     weight = 3
   [[menu.header]]
@@ -131,16 +131,16 @@ enableGitInfo = true
     title = "Publications"
     url = "/publications/"
     weight = 4
-  [[menu.header]]
-    name = "Policy"
-    title = "policy"
-    url = "/policy/"
-    weight = 5
-  [[menu.header]]
-    name = "teaching"
-    title = "Teaching"
-    url = "/teaching/"
-    weight = 6
+  #[[menu.header]]
+    #name = "Policy"
+    #title = "policy"
+    #url = "/policy/"
+    #weight = 5
+  #[[menu.header]]
+    #name = "teaching"
+    #title = "Teaching"
+    #url = "/teaching/"
+    #weight = 6
   # Configure footer
   [[menu.footer]]
     name = "Credits"
