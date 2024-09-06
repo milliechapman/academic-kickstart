@@ -85,7 +85,8 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 28. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. _Philosphical Transactions of the Royal Society B_.  <br /> [PDF](https://doi.org/10.1098/rstb.2023.0015)
 
-29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. (In Press at _Carbon Balance and Management_).
+29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. _Carbon Balance and Management_. <br /> 
+[PDF](https://link.springer.com/article/10.1186/s13021-024-00268-y)
 
 30.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
 

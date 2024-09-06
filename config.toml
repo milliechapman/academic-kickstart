@@ -108,7 +108,7 @@ enableGitInfo = true
 [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "far"
-      url       = "mailto:mchapman@berkeley.edu"
+      url       = "mailto:mchapman@nceas.ucsb.edu"
 [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
