@@ -100,7 +100,7 @@ enableGitInfo = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/millie-chapman-383a0377/"
+      url       = "https://www.linkedin.com/in/melissa-chapman-383a0377/"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
