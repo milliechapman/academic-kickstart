@@ -9,7 +9,7 @@ ol  { display: flex; flex-direction: column-reverse; }
 </style>
 
 Please visit my
-[Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) or  [ORCID](https://orcid.org/0000-0002-1377-1539) for the most up-to-date list of publications.
+[Google Scholar](https://scholar.google.com/citations?user=xJHRncgAAAAJ&hl=en) or  [ORCID](https://orcid.org/0000-0002-1377-1539) for the most up-to-date list of publications. If you are unable to access a PDF, just send me an email and I'll be more happy to share!
 
 1. Cunningham, et al. [including __Chapman__] (2014). Impaired consciousness in partial seizures is bimodally distributed. _Neurology._ <br />
 [PDF](https://n.neurology.org/content/82/19/1736.short)
@@ -83,19 +83,32 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 
 27. Oliver, __Chapman__, Emery, Gillespie, Gownaris, Leike, ... Zimmerman. Opening a conversation on responsible environmental data science in the age of generative AI.(2024). _Environmental Data Science_. <br /> [PDF](https://doi.org/10.1017/eds.2024.12) 
 
-28. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. An assessment of the state of conservation planning in Europe. _Philosphical Transactions of the Royal Society B_.  <br /> [PDF](https://doi.org/10.1098/rstb.2023.0015)
+28. Jung, Alagador, __Chapman__, Hermoso, Kujala, O'Connor, Schinegger, Verburg, Visconti. (2024) An assessment of the state of conservation planning in Europe.  _Philosphical Transactions of the Royal Society B_.  <br /> [PDF](https://doi.org/10.1098/rstb.2023.0015)
 
-29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. _Carbon Balance and Management_. <br /> 
+29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. (2024) Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. _Carbon Balance and Management_. <br /> 
 [PDF](https://link.springer.com/article/10.1186/s13021-024-00268-y)
 
 30.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
 
 31. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
-behavior to understand changing ecosystems. _Trends in Ecology and Evolution_. 
+behavior to understand changing ecosystems.(2024) _Trends in Ecology and Evolution_. 
 <br /> [PDF](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00145-9)
 
-32. (Preprint) __Chapman__, Jung, Boettiger, Leclère, Gusti,
-Augustynczik, Ringwald, Visconti. Meeting European conservation and restoration targets under future land-use demands. (in review at _Nature EcoEvo_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
+32. Ellis-Soto, __Chapman__,  Koltz.(2024) Addressing data disparities is critical for biodiversity assessments. _Trends in Ecology and Evolution_. 
+<br /> [PDF](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00256-8)
+
+33. Oliver, __Chapman__, Ellis-Soto, Brum-Bastos, Cagnacci, Long,
+Loretto, Patchett, & Rutz. (2024). Access to human mobility data is essential
+for building a sustainable future. _Cell Reports Sustainability._
+<br /> [PDF](https://doi.org/10.1016/j.crsus.2024.10007)
+
+34. Harrell, Kaeser-Chen, Ayan, Anderson, Conserva, Kleeman, 
+Neumann, Overlan, __Chapman__, & Purves. (2025). Heterogenous graph
+neural networks for species distribution modeling. _International Conference on Learning
+Representations (ICLR)_ . 
+<br /> [PDF](https://doi.org/10.48550/arXiv.2503.11900)
+
+35. __Chapman__, Jung, Boettiger, Leclère, Gusti, Augustynczik, Ringwald, Visconti. (2025) Meeting European conservation and restoration targets under future land-use demands. (accepted at _Nature Ecology and Evolution_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
 
 
 ## Workshop contributions
