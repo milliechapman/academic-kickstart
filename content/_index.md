@@ -7,7 +7,7 @@ description: |
    
    More info on my research group coming soon, but please reach out if you are interested in PhD or Postdoc opportunities (or if you just want to jam on ideas)!  
   
-image_left: true
+image_left: false
 images:
   - img/SEKI-old.png
 show_action_link: true
