@@ -96,7 +96,7 @@ enableGitInfo = true
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/milliechapma"
+      url       = "https://bsky.app/profile/milliechapman.bsky.social"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
