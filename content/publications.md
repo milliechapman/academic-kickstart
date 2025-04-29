@@ -108,7 +108,7 @@ neural networks for species distribution modeling. _International Conference on 
 Representations (ICLR)_ . 
 <br /> [PDF](https://doi.org/10.48550/arXiv.2503.11900)
 
-35. __Chapman__, Jung, Boettiger, Leclère, Gusti, Augustynczik, Ringwald, Visconti. (2025) Meeting European conservation and restoration targets under future land-use demands. (accepted at _Nature Ecology and Evolution_) <br /> [preprint](https://github.com/milliechapman/EU-restoration-prioritization/blob/main/manuscript/EU_preprint.pdf) | [code]( https://github.com/milliechapman/EU-restoration-prioritization)
+35. __Chapman__, Jung, Boettiger, Leclère, Gusti, Augustynczik, Ringwald, Visconti. (2025) Meeting European conservation and restoration targets under future land-use demands. (accepted at _Nature Ecology and Evolution_) <br /> [PDF](https://www.nature.com/articles/s41559-025-02671-1) | [code](https://github.com/milliechapman/EU-restoration-prioritization)
 
 
 ## Workshop contributions
