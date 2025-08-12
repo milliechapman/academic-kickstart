@@ -88,30 +88,40 @@ Applications to Environmental Policy.  _35th Conference on Neural Information Pr
 29. Sprenkle-Hyppolite,  Griffey, Munshi, __Chapman__, & Griscom. (2024) Expert-Informed Leakage-Free Global Carbon Dioxide Removal Potential of Trees in Agriculture. _Carbon Balance and Management_. <br /> 
 [PDF](https://link.springer.com/article/10.1186/s13021-024-00268-y)
 
-30.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
-
-31. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
+30. Oestreich, Mckenna, __Chapman__,  Oliver. Listening to animal
 behavior to understand changing ecosystems.(2024) _Trends in Ecology and Evolution_. 
 <br /> [PDF](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(24)00145-9)
 
-32. Ellis-Soto, __Chapman__,  Koltz.(2024) Addressing data disparities is critical for biodiversity assessments. _Trends in Ecology and Evolution_. 
+31. Ellis-Soto, __Chapman__,  Koltz.(2024) Addressing data disparities is critical for biodiversity assessments. _Trends in Ecology and Evolution_. 
 <br /> [PDF](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(24)00256-8)
 
-33. Oliver, __Chapman__, Ellis-Soto, Brum-Bastos, Cagnacci, Long,
+32. Oliver, __Chapman__, Ellis-Soto, Brum-Bastos, Cagnacci, Long,
 Loretto, Patchett, & Rutz. (2024). Access to human mobility data is essential
 for building a sustainable future. _Cell Reports Sustainability._
-<br /> [PDF](https://doi.org/10.1016/j.crsus.2024.10007)
+<br /> [PDF](https://doi.org/10.1016/j.tree.2024.10.005)
+
+33.  __Chapman__, Goldstein, Schell, Brashares, Carter, Ellis-Soto, Faxon, Goldstein, Halpern, Longdon, Norman, O'Rourke, Scoville, Xu, Boettiger. Biodiversity monitoring for a just planetary future. (2024). _Science_.<br /> [PDF](https://www.science.org/doi/10.1126/science.adh8874)
 
 34. Harrell, Kaeser-Chen, Ayan, Anderson, Conserva, Kleeman, 
 Neumann, Overlan, __Chapman__, & Purves. (2025). Heterogenous graph
-neural networks for species distribution modeling. _International Conference on Learning
-Representations (ICLR)_ . 
+neural networks for species distribution modeling. _International Conference on Learning Representations (ICLR)_. 
 <br /> [PDF](https://doi.org/10.48550/arXiv.2503.11900)
 
-35. __Chapman__, Jung, Boettiger, Leclère, Gusti, Augustynczik, Ringwald, Visconti. (2025) Meeting European conservation and restoration targets under future land-use demands. (accepted at _Nature Ecology and Evolution_) <br /> [PDF](https://www.nature.com/articles/s41559-025-02671-1) | [code](https://github.com/milliechapman/EU-restoration-prioritization)
+35. __Chapman__, Jung, Boettiger, Leclère, Gusti, Augustynczik, Ringwald, Visconti. (2025) Meeting European conservation and restoration targets under future land-use demands.  _Nature Ecology and Evolution_ <br /> [PDF](https://www.nature.com/articles/s41559-025-02671-1) | [code](https://github.com/milliechapman/EU-restoration-prioritization)
+
+36. __Chapman__, Visconti. (2025) Balancing restoration targets and production demands in the EU.  _Nature Ecology and Evolution_ <br /> 
+[PDF](https://www.nature.com/articles/s41559-025-02682-y)
+
+36.Faxon & __Chapman__. (2025) Beyond spatial bias: Understanding the colonial legacies and contemporary social forces shaping biodiversity data.  _Environmental Research Letters_ <br /> [PDF](https://www.nature.com/articles/s41559-025-02671-1) | [code](https://github.com/milliechapman/EU-restoration-prioritization)
+
+37. Johnson, Chaplin-Kramer, __Chapman__, Polasky, Williams. (2025) Earth-Economy Modeling: Advances in Linking Economic and Ecosystem Models. _Annual Review of Resource Economics_ <br /> [PDF](https://doi.org/10.1146/annurev-resource-013024-033043) |
+
+38. Oestreich, Czapanskiy, Katija, Record, Chapman, __Chapman__,  (2025) Collective science to inform global ocean protections. ( _Ecology Letters_) <br /> [PDF](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70168) 
+
+39. Ellis-Soto, __Chapman__. (2025) Historic residential segregation impacts biodiversity data availability disparately. (In press at _PNAS_) 
 
 
 ## Workshop contributions
 
-1.  __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. (2022) _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
+1. __Chapman__. Governing AI Applications To Monitoring and Managing Our Global Environmental Commons. (2022) _AAAI/ACM Conference on AI, Ethics, and Society, Student Track_ <br /> (Workshop paper)
 [PDF](https://dl.acm.org/doi/pdf/10.1145/3514094.3539540)
